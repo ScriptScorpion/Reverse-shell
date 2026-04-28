@@ -1,4 +1,3 @@
-
 # Requirements
   * `g++`
   * `make`
